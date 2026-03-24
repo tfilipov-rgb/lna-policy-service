@@ -1,0 +1,3 @@
+ERROR 2026-03-24 10:15:03: Deployment to 'LNA-PROD-01' FAILED. 
+Reason: Missing 'tenant_id' column in the UPDATE query at line 14 of 'update_logic.py'.
+Deployment Triggered by: Jenkins-CI-Bot.
